@@ -1,0 +1,4 @@
+[debug] [codewars-build] Classpath dependencies List()
+[debug] [codewars-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'codewars-build' to '/home/hriday_pratim_bharali/Projects/CodeWars/codewars/project/.bloop/codewars-build.json'
+[success] Generated .bloop/codewars-build.json
